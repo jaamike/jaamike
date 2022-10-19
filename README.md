@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nada Thongkham 
 - ✨ education : major in statistics minor in data science @Thammasat university
-- ✨ Skills : Python, R, SQL
+- ✨ Skills : Python, R, SQLite
 
 - 👀 I’m interested in Data science and stuff
 
