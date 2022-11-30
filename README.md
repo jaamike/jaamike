@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nada Thongkham 
-- ✨ education : major in statistics minor in data science @Thammasat university
+- ✨ education : major in statistics & minor in data science @Thammasat university
 - ✨ Hard Skill : Python, R, SQL, Power BI, SPSS, Excel
 - ✨ Soft Skill : Adaptability, Teamwork, Interpersonal Skills, Work Ethic
 
