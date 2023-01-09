@@ -8,4 +8,4 @@
 - 📫 How to reach me 
 email: thongkham.3049@gmail.com
 
-- //practice coding and stuff -> project1 //
+- //practice coding and stuff -> https://github.com/jaamike/Project1
